@@ -1,0 +1,19 @@
+Bug report
+
+Inaccessible field for entering an email for the leave feedback form.
+
+Environment - Win8.FireFox59.0.2
+Version - 2.1
+Priority medium - medium
+Author - Ivan
+
+Playback steps
+1. Go to the page about the company
+2. Open the "leave feedback" form
+3. Move the cursor to the email field
+
+Actual result
+The email field is not available for entering characters. Cursor does not appear
+
+Expected Result
+The email field is available for entering characters. The cursor appears
